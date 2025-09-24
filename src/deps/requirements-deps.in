@@ -1,5 +1,5 @@
 importlib-metadata==8.6.1
-pip==25.0.1
+pip==25.2
 pip-compile-multi==2.8.0
 pip-tools==7.4.1
 pip-upgrader==1.4.15
